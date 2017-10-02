@@ -1,5 +1,5 @@
 {
-  "name": "escpos-commands-js",
+  "name": "escpos-commands",
   "version": "1.0.0",
   "description": "A package to generate ESC/POS commands in JavaScript.",
   "main": "main.js",
