@@ -1,4 +1,4 @@
-export default {
+module.exports = {
     LF: '\x0a',
     ESC: '\x1b',
     FS: '\x1c',

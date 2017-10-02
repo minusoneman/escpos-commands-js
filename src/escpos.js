@@ -1,7 +1,7 @@
-import MutableBuffer from 'mutable-buffer';
-import CMD from './commands';
+var MutableBuffer = require('mutable-buffer'),
+    CMD = require('./commands');
 
-export class Escpos {
+class Escpos {
 
     constructor() {
       this.buffer = new MutableBuffer;
@@ -169,3 +169,5 @@ export class Escpos {
     }
 
 };
+
+module.exports = Escpos;

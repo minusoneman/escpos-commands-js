@@ -1,6 +1,6 @@
 {
   "name": "escpos-commands",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to generate ESC/POS commands in JavaScript.",
   "main": "main.js",
   "scripts": {
@@ -13,12 +13,12 @@
   "keywords": [
     "esc",
     "pos",
-    "escopos",
+    "escpos",
     "commands",
     "javascript"
   ],
   "author": "Humberto Piaia",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/humbertopiaia/escpos-commands-js/issues"
   },
